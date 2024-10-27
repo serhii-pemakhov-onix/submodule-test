@@ -1,1 +1,1 @@
-export { ReportSubmodule } from "./src"
+export {ReportSubmodule} from "./src/index.js"
